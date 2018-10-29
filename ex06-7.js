@@ -1,2 +1,7 @@
-var who = 'world';function sayhello67() {aleat('Hello, ' + '!');}
-function someone(x) {who = x;}
+var who = 'world';
+function sayhello67() {
+  alert('Hello, ' + who + '!');
+}
+function someone(x) {
+  who = x;
+}  
