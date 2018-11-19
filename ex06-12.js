@@ -4,7 +4,7 @@ function ThreeSecChange() {
   
 
 function imgchange12() {
-  document.getElementById('logo2').src = './image/bulbon.gif';
+  document.getElementById('logo2').src = '.medamayaki.jpg';
 }
 
 
