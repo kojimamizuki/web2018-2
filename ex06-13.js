@@ -11,7 +11,7 @@ function ThreeSecChange2(){
   setTimeout("imgchange2()",3000);
 }
 function imgchange2() {
-  document.getElementById('img13').src = 'Josai_Logo.jpg';
+  document.getElementById('img13').src = 'Josai_Logo.JPG';
 }
 
 //function ThreeSecBack() { 
