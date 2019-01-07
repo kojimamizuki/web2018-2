@@ -1,0 +1,1 @@
+function imgchange1(){document.getElementById('wagyu').src ='wagyu.jpg';}
