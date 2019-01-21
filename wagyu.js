@@ -1,1 +1,1 @@
-function imgchange1(){document.getElementById('wagyu').src ='wagyu.jpg';}
+function imgchange2(){document.getElementById('wagyu').src ='wagyu2.jpg';}
