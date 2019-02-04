@@ -1,1 +1,0 @@
-function quiz(){if(document('answer1').answer.value == 'アキナ'){alert('あたり！');} elseif(document.('answer1').value == 'あきな')}{alert('あたり！');} else{alert('残念！正解はアキナでした！')
